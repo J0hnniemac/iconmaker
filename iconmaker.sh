@@ -49,7 +49,7 @@ DESCRIPTION:
     Based on a script created by Wenva <lvyexuwenfa100@126.com>
 
  
-    This script is depend on ImageMagick. So you must install ImageMagick first
+    This script depends on ImageMagick. So you must install ImageMagick first
  
 AUTHOR:
     JohnnieMac<john@appyappster.com>
