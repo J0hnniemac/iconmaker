@@ -47,7 +47,7 @@ DESCRIPTION:
     This script is for generating app icons and is designed to be easily expandable when new sizes are added.
     srcfile - The source png image. Preferably above 1024x1024
     Based on a script created by Wenva <lvyexuwenfa100@126.com>
-
+    https://github.com/smallmuou/ios-icon-generator
  
     This script depends on ImageMagick. So you must install ImageMagick first
  
